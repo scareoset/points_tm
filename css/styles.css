@@ -1,0 +1,17 @@
+/*
+  site colors:
+*/
+
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: #121517;
+  color: #fafaff;
+}
+
+div.overview {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+  font-family: 'Courier New', Courier, monospace;
+}
